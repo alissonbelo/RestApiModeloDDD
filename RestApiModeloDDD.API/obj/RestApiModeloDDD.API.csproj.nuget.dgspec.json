@@ -28,6 +28,9 @@
           "netcoreapp3.1": {
             "targetAlias": "netcoreapp3.1",
             "projectReferences": {
+              "C:\\Users\\alisson.chagas\\Documents\\Estudo\\C#\\REST API\\RestApiModeloDDD\\RestApiModeloDDD.Application\\RestApiModeloDDD.Application.csproj": {
+                "projectPath": "C:\\Users\\alisson.chagas\\Documents\\Estudo\\C#\\REST API\\RestApiModeloDDD\\RestApiModeloDDD.Application\\RestApiModeloDDD.Application.csproj"
+              },
               "C:\\Users\\alisson.chagas\\Documents\\Estudo\\C#\\REST API\\RestApiModeloDDD\\RestApiModeloDDD.Infrastructure\\RestApiModeloDDD.Infrastructure.csproj": {
                 "projectPath": "C:\\Users\\alisson.chagas\\Documents\\Estudo\\C#\\REST API\\RestApiModeloDDD\\RestApiModeloDDD.Infrastructure\\RestApiModeloDDD.Infrastructure.csproj"
               }
@@ -44,10 +47,6 @@
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
           "dependencies": {
-            "Autofac": {
-              "target": "Package",
-              "version": "[6.2.0, )"
-            },
             "Autofac.Extensions.DependencyInjection": {
               "target": "Package",
               "version": "[7.1.0, )"
